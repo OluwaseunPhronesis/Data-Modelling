@@ -1,6 +1,6 @@
 # Data Modelling and the world of Data Analysis Expression #NGN30DaysOfLearning 
 
-##Intodroduction
+# Intodroduction
 What is Data Modeling 
 Data Modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structure
 # Type of Data Modeling
